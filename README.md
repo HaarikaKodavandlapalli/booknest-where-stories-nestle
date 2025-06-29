@@ -1,5 +1,5 @@
 # booknest-where-stories-nestle
-📚 A full-stack MERN Book Store app for browsing, purchasing, and managing books. Features user auth, book listings, admin dashboard, order management, and responsive UI. Built with MongoDB, Express, React, and Node.js.
+
 📚 BookNest: Where Stories Nestle
 BookNest is a full-stack digital book store built with the MERN Stack (MongoDB, Express.js, React.js, Node.js), designed to offer a seamless and immersive experience for book lovers. Whether you're a casual reader or an avid bibliophile, BookNest lets you browse, buy, and manage books—all from the comfort of your device.
 
