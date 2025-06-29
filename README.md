@@ -17,7 +17,7 @@ Authentication: Secure login system with role-based access
 
 Version Control: Git & GitHub
 
-⚙️ Core Features
+#⚙️ Core Features
 🔐 User Authentication – Secure registration and login for users, sellers, and admins
 
 📚 Book Listings – Browse and filter books by genre, author, or rating
